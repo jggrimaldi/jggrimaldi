@@ -17,7 +17,7 @@
   <img align="center" height="50" width=60 alt=jg-html src="https://devicon-website.vercel.app/api/html5/original.svg"></img>
   <img align="center" height="50" width=60 alt=jg-css src="https://devicon-website.vercel.app/api/css3/original.svg"></img>
   <img align="center" height="50" width=60 alt=jg-boot src="https://devicon-website.vercel.app/api/bootstrap/original.svg"></img>
-  <img align="right" height="110" width=250 src="https://www.bing.com/th/id/OGC.f534c29750b624c3463768a678fab05f?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fIMJu2ZnGcXOGCx7B3O%2fgiphy.gif%3fcid%3d790b76112ed06921b3b7cd903fa94ad4fd7ea65dec657f17%26rid%3dgiphy.gif%26ct%3dg&ehk=4n%2fU9XvILTE02xOMJibYxLF8x8f72opGKTqo31uZB68%3d"></img>
+  <img align="right" height="108" width=250 src="https://www.bing.com/th/id/OGC.f534c29750b624c3463768a678fab05f?o=7&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fIMJu2ZnGcXOGCx7B3O%2fgiphy.gif%3fcid%3d790b76112ed06921b3b7cd903fa94ad4fd7ea65dec657f17%26rid%3dgiphy.gif%26ct%3dg&ehk=4n%2fU9XvILTE02xOMJibYxLF8x8f72opGKTqo31uZB68%3d"></img>
 </div>
 
 ## 📩 Contato
